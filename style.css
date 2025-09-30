@@ -9,3 +9,11 @@ body{
   border-radius: 15px;
   box-shadow: 0 4px 8px rgpa(0, 0, 0, 0.1); 
 }
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran senpurna */
+}
+.kartu-profil {
+  /* ... (kode dari 
